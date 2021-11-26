@@ -1,16 +1,4 @@
-# flutter_random_color_pallete_generator
+# Random color palette generator mobile app - A Dev Project project
+Project description: https://www.codementor.io/projects/mobile/random-color-palette-generator-mobile-app-cfkyclpsex
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/54258769/143590404-a769cc37-a40f-4ff5-a915-8c2fbdc6b629.png)
